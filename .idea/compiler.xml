@@ -4,6 +4,7 @@
     <option name="DEFAULT_COMPILER" value="Javac" />
     <resourceExtensions />
     <wildcardResourcePatterns>
+      <entry name="?*.sizes" />
       <entry name="?*.properties" />
       <entry name="?*.xml" />
       <entry name="?*.gif" />
@@ -28,4 +29,3 @@
     <option name="ADDITIONAL_OPTIONS_STRING" value="-Xlint:all -target 1.7" />
   </component>
 </project>
-
